@@ -1,0 +1,20 @@
+{
+  "name": "scs",
+  "version": "0.1.0",
+  "description": "Supply Chain System",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "compile": "node-gyp rebuild"
+  },
+  "keywords": [
+    "C++"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "nan": "^2.13.2",
+    "node-gyp": "^3.8.0"
+  },
+  "gypfile": true
+}
