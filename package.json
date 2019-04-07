@@ -1,16 +1,17 @@
 {
-  "name": "scs",
+  "name": "PMS",
   "version": "0.1.0",
-  "description": "Supply Chain System",
+  "description": "Process Management System for Amazon like businesses",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "compile": "node-gyp rebuild"
   },
-  "keywords": [
-    "C++"
+  "contributors": [
+    "Angel Rodríguez <angelmanuelrs@gmail.com>",
+    "Rául medrano <>",
+    "Gabriela Albornoz <>"
   ],
-  "author": "",
   "license": "MIT",
   "dependencies": {
     "nan": "^2.13.2",
